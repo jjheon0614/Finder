@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBEHOJO1VL1jDyrUyj0e1r_3uy_io7x0PE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985914306366</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sonia.Finder</string>
+	<key>PROJECT_ID</key>
+	<string>finder-project-7b91e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finder-project-7b91e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985914306366:ios:e5965695cb6f56f36e866f</string>
+</dict>
+</plist>
